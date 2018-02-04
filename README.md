@@ -2,6 +2,7 @@
 Simple Node scraper for the superbowl
 
 # Setup:
+Pre) Install Node.js: https://nodejs.org/en/download/
 1) npm install http
 2) node super_scrape.js
 
