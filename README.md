@@ -1,5 +1,5 @@
 # superbowl_scrape
-Simple Node Scrape for the superbowl
+Simple Node scraper for the superbowl
 
 # Setup:
 1) npm install http
